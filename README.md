@@ -8,7 +8,8 @@ This checker is a Node.js project bundled as a PE/exe file through Pkg. If you d
 
 You can check the status code by doing this
 
-check-status-code.exe --url=www.vokke.com.au --expectedStatusCode=401
+check-status-code.exe --url=myDomain.com --expectedStatusCode=statusCode
+
 
 **Building the sensor**
 If you wish to build the sensor run Pkg:

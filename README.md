@@ -12,6 +12,7 @@ check-status-code.exe --url=myDomain.com --expectedStatusCode=statusCode
 
 
 **Building the sensor**
+
 If you wish to build the sensor run Pkg:
 
 pkg . --targets node10-win-x64

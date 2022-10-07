@@ -15,4 +15,4 @@ check-status-code.exe --url=myDomain.com --expectedStatusCode=statusCode
 
 If you wish to build the sensor run Pkg:
 
-pkg . --targets node10-win-x64
+pkg check-status-code.js --targets node10-win-x64

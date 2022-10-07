@@ -12,4 +12,5 @@ check-status-code.exe --url=www.vokke.com.au --expectedStatusCode=401
 
 **Building the sensor**
 If you wish to build the sensor run Pkg:
+
 pkg . --targets node10-win-x64
